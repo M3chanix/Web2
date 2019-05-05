@@ -6,3 +6,13 @@
     background-size: contain;
     background: url(../imagies/10.jpg) 100% 100% no-repeat;
 }
+
+.wrapper {
+    padding-left: -15px;
+    padding-right: -15px;
+}
+
+.row_wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+}
